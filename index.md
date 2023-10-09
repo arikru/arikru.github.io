@@ -1,4 +1,6 @@
-## Hello and welcome to this blog.
+## Articles
+
+Welcome to this blog!
 
 Posts will appear here any time soon ...
 
